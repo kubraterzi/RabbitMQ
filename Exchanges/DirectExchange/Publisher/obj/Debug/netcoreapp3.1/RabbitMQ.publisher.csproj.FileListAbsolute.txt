@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\Smssge\RabbitMQ\SmssgeRabbitMQ.pblisher\bin\Debug\netcoreapp3.1\RabbitMQ.publisher.exe
+C:\Users\lenovo\Desktop\Smssge\RabbitMQ\SmssgeRabbitMQ.pblisher\bin\Debug\netcoreapp3.1\RabbitMQ.publisher.deps.json
+C:\Users\lenovo\Desktop\Smssge\RabbitMQ\SmssgeRabbitMQ.pblisher\bin\Debug\netcoreapp3.1\RabbitMQ.publisher.runtimeconfig.json
+C:\Users\lenovo\Desktop\Smssge\RabbitMQ\SmssgeRabbitMQ.pblisher\bin\Debug\netcoreapp3.1\RabbitMQ.publisher.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\Smssge\RabbitMQ\SmssgeRabbitMQ.pblisher\bin\Debug\netcoreapp3.1\RabbitMQ.publisher.dll
+C:\Users\lenovo\Desktop\Smssge\RabbitMQ\SmssgeRabbitMQ.pblisher\bin\Debug\netcoreapp3.1\RabbitMQ.publisher.pdb
+C:\Users\lenovo\Desktop\Smssge\RabbitMQ\SmssgeRabbitMQ.pblisher\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\lenovo\Desktop\Smssge\RabbitMQ\SmssgeRabbitMQ.pblisher\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\lenovo\Desktop\Smssge\RabbitMQ\SmssgeRabbitMQ.pblisher\obj\Debug\netcoreapp3.1\RabbitMQ.publisher.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Smssge\RabbitMQ\SmssgeRabbitMQ.pblisher\obj\Debug\netcoreapp3.1\RabbitMQ.publisher.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Smssge\RabbitMQ\SmssgeRabbitMQ.pblisher\obj\Debug\netcoreapp3.1\RabbitMQ.publisher.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Smssge\RabbitMQ\SmssgeRabbitMQ.pblisher\obj\Debug\netcoreapp3.1\RabbitMQ.publisher.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Smssge\RabbitMQ\SmssgeRabbitMQ.pblisher\obj\Debug\netcoreapp3.1\RabbitMQ.publisher.dll
+C:\Users\lenovo\Desktop\Smssge\RabbitMQ\SmssgeRabbitMQ.pblisher\obj\Debug\netcoreapp3.1\RabbitMQ.publisher.pdb
+C:\Users\lenovo\Desktop\Smssge\RabbitMQ\SmssgeRabbitMQ.pblisher\obj\Debug\netcoreapp3.1\RabbitMQ.publisher.genruntimeconfig.cache
